@@ -1,0 +1,4 @@
+#this file is to proxy e-hentai&exhentai in another group
+#From my exp, exhentai need an ip from us or etc in western.
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
