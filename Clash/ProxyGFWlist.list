@@ -5854,3 +5854,8 @@ DOMAIN-SUFFIX,ocnttv.com
 
 #pikpak网盘
 DOMAIN-SUFFIX,mypikpak.com
+
+#Documents
+DOMAIN-SUFFIX,pdfexpert.com
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,amplitude.com
