@@ -695,4 +695,4 @@ DOMAIN-SUFFIX,moegirl.org.cn
 DOMAIN-SUFFIX,transfer-xray.tk
 
 #ssh
-DST-PORT,22,DIRECT
+DST-PORT,22
