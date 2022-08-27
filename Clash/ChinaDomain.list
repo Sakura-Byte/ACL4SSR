@@ -715,9 +715,6 @@ DOMAIN-SUFFIX,moegirl.org.cn
 #岛主中转
 DOMAIN-SUFFIX,transfer-xray.tk
 
-#ssh
-DST-PORT,22
-
 #阿里云盘
 DOMAIN-SUFFIX,aliyundrive.com
 
