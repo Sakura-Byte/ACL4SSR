@@ -3447,7 +3447,6 @@ DOMAIN-SUFFIX,mynetav.org
 DOMAIN-SUFFIX,mynumber.org
 DOMAIN-SUFFIX,myparagliding.com
 DOMAIN-SUFFIX,mypicture.info
-DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypop3.net
 DOMAIN-SUFFIX,mypop3.org
 DOMAIN-SUFFIX,mypopescu.com
@@ -6243,9 +6242,6 @@ DOMAIN-SUFFIX,flzbcdn.xyz
 
 #华文电视
 DOMAIN-SUFFIX,ocnttv.com
-
-#pikpak网盘
-DOMAIN-SUFFIX,mypikpak.com
 
 #Documents
 DOMAIN-SUFFIX,pdfexpert.com
