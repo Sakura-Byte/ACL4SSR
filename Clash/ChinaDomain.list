@@ -736,3 +736,6 @@ DOMAIN-SUFFIX,backup.www.hostbuf.com
 #qnap
 DOMAIN-KEYWORD,qnap
 DOMAIN-KEYWORD,qlink
+
+#极下解析
+DOMAIN-SUFFIX,api.chenflxs.top
