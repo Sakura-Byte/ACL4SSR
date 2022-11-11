@@ -6265,3 +6265,8 @@ DOMAIN-SUFFIX,picjs.xyz
 
 #hostloc
 DOMAIN-SUFFIX,hostloc.com
+
+#VR
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,facebook.com
