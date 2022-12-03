@@ -6278,3 +6278,6 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,facebook.com
+
+#openai
+DOMAIN-KEYWORD,openai.com
