@@ -6281,3 +6281,6 @@ DOMAIN-SUFFIX,facebook.com
 
 #openai
 DOMAIN-KEYWORD,openai
+
+#recaptcha.net 
+DOMAIN-SUFFIX,recaptcha.net
