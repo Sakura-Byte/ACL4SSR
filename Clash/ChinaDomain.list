@@ -739,3 +739,7 @@ DOMAIN-KEYWORD,qlink
 
 #极下解析
 DOMAIN-SUFFIX,api.chenflxs.top
+
+#Kinhdown
+DOMAIN-SUFFIX,kinh.cc
+DOMAIN-SUFFIX,kinhdown.com
