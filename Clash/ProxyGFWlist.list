@@ -6300,3 +6300,6 @@ DOMAIN-KEYWORD,openai
 
 #recaptcha.net 
 DOMAIN-SUFFIX,recaptcha.net
+
+#static file
+DOMAIN-SUFFIX,staticfile.org
