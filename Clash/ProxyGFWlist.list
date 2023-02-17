@@ -6303,3 +6303,6 @@ DOMAIN-SUFFIX,recaptcha.net
 
 #static file
 DOMAIN-SUFFIX,staticfile.org
+
+#natfrp
+DOMAIN-KEYWORD,natfrp
