@@ -6306,3 +6306,7 @@ DOMAIN-SUFFIX,staticfile.org
 
 #natfrp
 DOMAIN-KEYWORD,natfrp
+
+#FUCK, synology is block by CM,Guang Dong
+DOMAIN-SUFFIX,synology.com
+
