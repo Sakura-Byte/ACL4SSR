@@ -6310,3 +6310,6 @@ DOMAIN-KEYWORD,natfrp
 #FUCK, synology is block by CM,Guang Dong
 DOMAIN-SUFFIX,synology.com
 
+#imnks spk download source
+DOMAIN-SUFFIX,dl.imnks.cn
+
