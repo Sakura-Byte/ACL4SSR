@@ -6308,3 +6308,7 @@ DOMAIN-SUFFIX,synology.com
 #imnks spk download source
 DOMAIN-SUFFIX,dl.imnks.cn
 
+#google tag
+DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices.com
