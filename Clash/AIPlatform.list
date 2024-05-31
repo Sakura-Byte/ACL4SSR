@@ -1,6 +1,7 @@
 
 #openai
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
